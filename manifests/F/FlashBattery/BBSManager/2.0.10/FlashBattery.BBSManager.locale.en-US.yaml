@@ -7,7 +7,7 @@ Publisher: Flash Battery S.r.l.
 PublisherUrl: https://www.flashbattery.tech/
 PackageName: BBS Manager
 License: Proprietary
-LicenseUrl: https://www.flashbattery.tech/license/
+LicenseUrl: https://github.com/Flash-Battery-Srl/BBSManager_wdeploy_app/blob/main/eula/BBSManagerLicence.pdf
 ShortDescription: Flash Battery BBS Manager is a monitoring and management software for Flash Battery systems.
 Description: |
   Flash Battery BBS Manager allows configuration, diagnostics, and real-time monitoring of Flash Battery systems.
