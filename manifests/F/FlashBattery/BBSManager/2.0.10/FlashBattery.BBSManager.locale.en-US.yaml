@@ -1,0 +1,14 @@
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
+PackageIdentifier: FlashBattery.BBSManager
+PackageVersion: 2.0.10
+PackageLocale: en-US
+Publisher: Flash Battery S.r.l.
+PublisherUrl: https://www.flashbattery.tech/
+PackageName: BBS Manager
+License: Proprietary
+LicenseUrl: https://www.flashbattery.tech/license/
+ShortDescription: Flash Battery BBS Manager is a monitoring and management software for Flash Battery systems.
+Description: |
+  Flash Battery BBS Manager allows configuration, diagnostics, and real-time monitoring of Flash Battery systems.
+  Version 2.0.10 adds performance improvements and extended support for remote maintenance.
